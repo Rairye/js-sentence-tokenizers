@@ -9,9 +9,5 @@
   },
   "author": "Rairye",
   "license": "Apache-2.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Rairye/js-sentence-tokenizers.git",
-    "directory": "packages/zh-sentence"
-  }
+
 }
