@@ -1,0 +1,17 @@
+{
+  "name": "zh-sentence",
+  "version": "1.0.0",
+  "description": "Light-weight sentence tokenizer for Chinese languages.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rairye",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rairye/js-sentence-tokenizers.git",
+    "directory": "packages/zh-sentence"
+  }
+}
