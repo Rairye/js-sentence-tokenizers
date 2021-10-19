@@ -1,0 +1,12 @@
+{
+  "name": "ko-sentence",
+  "version": "1.0.0",
+  "description": "Light-weight sentence tokenizer for Korean.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rairye",
+  "license": "Apache-2.0"
+}
