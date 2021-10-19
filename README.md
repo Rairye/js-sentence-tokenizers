@@ -1,5 +1,5 @@
 # js-sentence-tokenizers
-JavaScript sentence tokenizers in multiple languages.
+JavaScript sentence tokenizers for multiple natural languages.
 
 Current languages:
 
