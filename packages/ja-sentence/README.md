@@ -1,10 +1,6 @@
 ## Installation
 
-1. Download the tgz file
-2. In the project directory, excute:
-
-npm install ja-sentence-1.0.0.tgz
-
+npm install ja-sentence
 
 ## Code Sample
 
