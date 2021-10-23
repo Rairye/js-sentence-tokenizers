@@ -1,8 +1,5 @@
 ## Installation
 
-1. Download the tgz file
-2. In the project directory, excute:
-
 npm install kr-sentence
 
 
