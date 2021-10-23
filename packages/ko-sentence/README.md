@@ -3,7 +3,7 @@
 1. Download the tgz file
 2. In the project directory, excute:
 
-npm install ko-sentence-1.0.0.tgz
+npm install kr-sentence
 
 
 ## Code Sample
